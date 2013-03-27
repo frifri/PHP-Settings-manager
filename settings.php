@@ -1,10 +1,9 @@
 <?php 
 
 /**
- * Represent the class that will manage the T.io's settings
+ * Represent the class that will manage the project settings
  *
  * @author Francis Genet
- * @package Trunking.io
  * @version 1.0
  */
 
